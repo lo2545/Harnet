@@ -1,0 +1,11 @@
+# ОС / редакторы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Сборка (Arduino CLI / PlatformIO)
+build/
+.pio/
+*.bin
+*.elf
